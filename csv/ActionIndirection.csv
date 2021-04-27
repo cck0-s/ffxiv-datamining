@@ -1,6 +1,6 @@
 ﻿key,0,1,2
-#,Name,ClassJob,
-int32,Action,ClassJob,int32
+#,Name,ClassJob,PreviousComboAction
+int32,Action,ClassJob,Action
 0,0,-1,0
 1,2265,30,2260
 2,2266,30,2260
